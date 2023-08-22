@@ -1,0 +1,282 @@
+body{
+    margin: 0;
+    /* border: 3px solid black; */
+    border-radius: 5px;
+    /* background-color: yellow; */
+    height: auto;
+    width: auto;
+}
+.heading{
+    width: 100px;
+    height: 348px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.container{
+    width: 773px;
+    height: 1000px;
+    margin-left: 350px;
+    margin-top: 10px;
+    border: 2px solid black;
+ /* background-color: rgb(221, 213, 228);    */
+    
+}
+
+.heading{
+    width: 100%;
+    height: 230px;
+    margin-left: -2px;
+    margin-top: -2px;
+   
+   
+}
+
+img{
+    height: 150px;
+    margin-left: 15px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 50px;
+    width: 20%;
+}
+
+h2{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    margin-left: 55px;
+    margin-top: -3px;
+    /* background-color: beige; */
+    width: 110px;
+    font-size: 100%;
+}
+
+h3{
+    font-size:medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 10;
+    margin-left: 53px;
+    margin-top: -11px;
+    width: 12px;
+    /* background-color: azure; */
+    font-size: 100%;
+}
+#email{
+    margin-left: 25px;
+    margin-top: -11px;
+    width: 22%;
+    font-size:medium;
+}
+
+.mainheading{
+    /* background-color: aqua; */
+    width: 64%;
+    margin-left: 275px;
+    margin-top: -247px;
+    height: 40px;
+}
+
+#python{
+    width: 50%;
+    /* color: red; */
+    font-size:30px;
+}
+
+#para{
+    border: 1px solid black;
+    width: 100%;
+    height: 120px;
+    margin-top: -17px;
+    background-color: rgb(113, 89, 135);
+}
+
+#profile{
+    width: 23%;
+    margin-top: -134px;
+    margin-left: 3px;
+    color: white;
+    font-size:x-large;
+   
+}
+#main_summery{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: bisque; */
+    margin-left: 2px;
+    margin-top: -13px;
+    color: white;
+    
+}   
+
+.aside{
+    width: 250px;
+    /* border: 1px solid black; */
+    background-color: bisque;
+    height: 765px;
+    margin-top: 96px;
+    margin-left: -273px;
+    
+}
+
+.tech{
+    width: 100%;
+    /* background-color: red; */
+    height: 200px;
+   
+}
+
+#technical{
+    width: 20%;
+    margin-left: 49px;
+    display: inline;
+    
+}
+
+.course{
+    /* border: 1px solid black; */
+    height: 122px;
+    /* background-color: blueviolet; */
+}
+
+#cours{
+    display: inline;
+    margin-left: 49px;
+}
+
+.education{
+    /* border: 1px solid black; */
+    height: 122px;
+    /* background-color: green; */
+}
+
+#edu{
+    display: inline;
+    margin-left: 49px;
+}
+
+#coll{
+    margin-top: -1px;
+}
+
+.lang{
+    /* border: 1px solid black; */
+    height: 122px;
+    /* background-color: greenyellow; */
+}
+
+#lan{
+    display: inline;
+    margin-left: 49px;
+}
+
+.main{
+    border: 1px solid black;
+    margin-left: 249px;
+    width: 521px;
+    margin-top: -567px;
+    height: 769px;
+    
+    /* background-color: brown; */
+}
+
+#exp{
+    font-size: 20px;
+    margin-left: 1px;
+    margin-top: 2px;
+}
+
+.exp1{
+    /* border: 1px solid black; */
+    height: 225px;
+    /* background-color: violet; */
+}
+
+#exphead1{
+    display: inline;
+    margin-left: 0px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#comp1{
+    display: inline;
+    padding-top: 1px;
+    /* border: 1px solid black; */
+    font-size: 25px;
+
+}
+
+.expblock2{
+    width: 100%;
+    /* border: 1px solid black; */
+    height: 490px;
+    /* background-color: orange; */
+}
+
+#nonexp{
+    display: inline;
+    margin-left: 0px;
+   
+}
+
+.exp2{
+    /* border: 1px solid black; */
+    height: 200px;
+    margin-top: 2px;
+}
+
+#exphead2{
+    display: inline;
+    margin-left:0px ;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#comp2{
+    display: inline;
+    padding-top: 1px;
+    /* border: 1px solid black; */
+    font-size: 18px;
+
+    
+}
+
+.exp3{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 150px;
+}
+
+#exhead3{
+    display: inline;
+    margin-left: 0px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#comp3{
+    display: inline;
+    padding-top: 1px;
+    /* border: 1px solid black; */
+    font-size: 18px;
+}
+
+.decl{
+    /* border:1px solid black; */
+    width: 100%;
+    height: 123px;
+}
+
+#dec{
+    display: inline;
+    margin-left: 0px;
+}
+
+#name{
+    margin-left: 445px;
+}
